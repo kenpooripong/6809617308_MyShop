@@ -361,6 +361,10 @@ body {
     box-shadow: 0 4px 15px rgba(18, 145, 196, 0.5);
 }
 
+.block-link-headphone {
+    text-decoration: none;
+    color: black;
+}
 .Mouse {
     display: flex;
     flex-direction: column;

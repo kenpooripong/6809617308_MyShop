@@ -443,6 +443,11 @@ body {
     box-shadow: 0 4px 15px rgba(18, 145, 196, 0.5);
 }
 
+.block-link-monitor {
+    text-decoration: none;
+    color: black;
+}
+
 .New_arrival {
     display: flex;
     justify-content: center;
